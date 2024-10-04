@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/roshan_khaling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshan_khaling" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roshan khaling rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan khaling rai" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/roshan khaling rai](https://www.linkedin.com/in/roshan-khaling-rai-2a67821b6/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan khaling rai" height="30" width="40" /></a>
 <a href="https://instagram.com/_roshan20.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_roshan20.___" height="30" width="40" /></a>
 </p>
 
